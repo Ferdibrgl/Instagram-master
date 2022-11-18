@@ -7,16 +7,16 @@
 
 This program will brute force any Instagram account you send it its way given a list of proxies.
 
-### NOTICE
 
-~~I'm no longer maintaining this project.~~
 
-### Support
 
-It motivates me to keep updating this program.
 
-> **Bitcoin Wallet:** 3Kr5C9t9HWwPfqzSNXeBNyRvJWw9sSLeKy<br/>
-> **PayPal:** https://www.paypal.me/Msheikh03
+
+
+
+
+
+
 
 ## Requirements
 
